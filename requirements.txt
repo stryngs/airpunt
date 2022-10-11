@@ -1,0 +1,6 @@
+packetEssentials>=1.8.4
+pbkdf2>=1.3
+pycryptodomex>=3.15.0
+pyDot11>=2.3.4
+rc4>=0.2
+scapy>=2.4.5
